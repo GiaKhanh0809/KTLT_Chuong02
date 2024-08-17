@@ -1,0 +1,6 @@
+STT   Ma SV          Ho ten                         Diem TL       Diem KT       Diem TK       Diem He 4
+1     202101001     Nguyen Van A                   8.5           9.0           8.85          4.0
+2     202101002     Tran Thi B                     6.5           7.0           6.85          3.0
+3     202101003     Le Van C                       4.0           5.0           4.7           1.0
+4     202101004     Hoang Thi D                    7.5           8.5           8.05          3.7
+5     202101005     Pham Van E                     3.5           4.0           3.85          0.0
